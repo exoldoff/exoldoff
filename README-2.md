@@ -5,7 +5,8 @@
 - Junior data analyst
 - SQL, Python, Power BI and DataLens
 - SPbU'26 student
-- AI monster 😈 
+- AI monster 😈
+  
 ![Logo](https://placecats.com/350/250?fit=contain&position=top
 )
 
