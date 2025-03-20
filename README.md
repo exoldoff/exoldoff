@@ -1,16 +1,13 @@
-## Hi there 👋
+# 😇 About Me
+- Egor, St. Petersburg
+- 21 y.o., bald 👨‍🦲 
+- Junior data analyst
+- SQL, Python, Power BI and DataLens
+- SPbU'26 student
+- AI monster 😈
+  
+![Logo](https://placecats.com/350/250?fit=contain&position=top
+)
 
-<!--
-**exoldoff/exoldoff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)
