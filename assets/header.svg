@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Egor Kholkin — AI, data &amp; products</title>
+  <desc id="desc">Тёмно-зелёная шапка с именем Егора Холкина, ником exoldoff и мятным пиксельным AI-монстром.</desc>
+  <rect width="1200" height="360" rx="20" fill="#123A31"/>
+  <path d="M868 0H1200V360H1040Z" fill="#19483D"/>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text x="58" y="74" font-size="25" fill="#B5D6C8">exoldoff</text>
+    <text x="54" y="177" font-size="86" font-weight="700" letter-spacing="-4" fill="#F4F8F5">Egor Kholkin</text>
+    <text x="58" y="240" font-size="34" fill="#BCE4CC">AI, data &amp; products</text>
+    <text x="58" y="309" font-size="23" fill="#B5D6C8">От бизнес-задачи до работающего решения.</text>
+  </g>
+  <g transform="translate(938 78)" fill="#BCE4CC">
+    <path d="M16 0H48V32H112V0H144V48H160V144H144V176H112V144H48V176H16V144H0V48H16Z"/>
+    <path d="M32 64H64V96H32ZM96 64H128V96H96ZM48 112H112V128H48Z" fill="#123A31"/>
+  </g>
+  <text x="1018" y="309" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="23" fill="#B5D6C8">AI monster</text>
+</svg>
